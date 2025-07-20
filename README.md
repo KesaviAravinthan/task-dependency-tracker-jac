@@ -1,6 +1,6 @@
-# Task Dependency Tracker (JAC)
+# Task Dependency Tracker (Jac)
 
-This project implements a simple **Task Dependency Tracker** using the [JAC programming language](https://www.jac-lang.org/). It demonstrates how to model and traverse task dependencies using node-edge graph logic.
+This project implements a simple **Task Dependency Tracker** using the [Jac programming language](https://www.jac-lang.org/). It demonstrates how to model and traverse task dependencies using node-edge graph logic.
 
 ## 📌 Features
 
@@ -13,13 +13,13 @@ This project implements a simple **Task Dependency Tracker** using the [JAC prog
 
 ## 🛠️ Technologies
 
-- **Language**: [JAC](https://www.jac-lang.org/) – a domain-specific language for graph-based programming.
+- **Language**: [Jac](https://www.jac-lang.org/) – a domain-specific language for graph-based programming.
 - **Graph Model**: Nodes (`task`), Edges (`depends_on`), Walkers (`TaskTracker`).
 
 
 ## 🚀 Getting Started
 
-1. Install JAC CLI (see [JAC install guide](https://www.jac-lang.org/learn/getting_started/))
+1. Install Jac CLI (see [JAC install guide](https://www.jac-lang.org/learn/getting_started/))
 2. Run the task.jac file using the JAC engine:
 
 ```bash
